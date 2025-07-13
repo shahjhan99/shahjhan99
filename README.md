@@ -29,11 +29,11 @@ A Passionate AI/ML & Generative AI Developer from Pakistan 🇵🇰
 
 <!-- Tools & Frameworks -->
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![YOLO](https://img.shields.io/badge/YOLO-FF6F00?style=for-the-badge&logo=openCV&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-FF6F00?style=for-the-badge&logo=openCV&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-FFB000?style=for-the-badge&logo=gradio&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)

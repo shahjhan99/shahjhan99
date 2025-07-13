@@ -5,7 +5,7 @@ A Passionate AI/ML & Generative AI Developer from Pakistan 🇵🇰
 
 ## 🌱 About Me
 
-🌱 I’m currently working on AI, ML, Deep Learning & Generative AI , AWS Deployment 
+🌱 I’m currently working on AI, ML, Deep Learning & Generative AI , AWS Deployment
 💬 Ask me about Python, FastAPI, YOLO, Streamlit, Hugging Face, LLaMA3  
 📫 Reach me at [shahjhangondal99@gmail.com](mailto:shahjhangondal99@gmail.com)  
 ⚡ Fun fact: I love solving real-world problems with AI  
